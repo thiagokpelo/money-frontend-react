@@ -1,0 +1,17 @@
+.main-footer {
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+}
+
+.small-box {
+  overflow: hidden;
+}
+
+button + button {
+  margin-left: 5px;
+}
+
+.table-actions {
+  width: 150px;
+}
