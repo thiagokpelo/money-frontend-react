@@ -1,5 +1,4 @@
 import axios from 'axios'
-import consts from '../'
 import consts from '../consts'
 
 export function getSummary() {
